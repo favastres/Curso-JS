@@ -1,0 +1,4 @@
+Document Object Model
+
+- O Modelo de Objeto de Documento (DOM) é uma interface de programação para documentos HTML, XML e SVG.
+- Embora o DOM seja frequentemente acessado usando JavaScript, não é uma parte da linguagem JavaScript. Ele também pode ser acessado por outras linguagens.
